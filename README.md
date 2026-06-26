@@ -19,7 +19,7 @@
 ```python
 class SOCAnalyst:
     def __init__(self):
-        self.name           = "Rajesh R"
+        self.name           = "𝖱 𝖠 𝖩 𝖤 𝖲 𝖧 𝖱"
         self.location       = "Bangalore, India"
         self.degree         = "B.E. CSE (Cyber Security), 2026"
         self.cgpa           = 8.2
